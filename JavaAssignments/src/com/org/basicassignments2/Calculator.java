@@ -1,4 +1,4 @@
-package com.org.basicassignments;
+package com.org.basicassignments2;
 
 public class Calculator {
  

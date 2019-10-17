@@ -1,4 +1,4 @@
-package com.org.basicassignments;
+package com.org.basicassignments2;
 
 import static org.junit.jupiter.api.Assertions.*;
 
